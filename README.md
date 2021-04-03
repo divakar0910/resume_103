@@ -7,19 +7,26 @@
   - address:**prakasam District**
   
  ### Education details
- -B.tech
+ - B.tech
    - **RVR & JC College Of Engineering**
    - **CSE**
    - **2019-2023**
    - **Guntur,AndhraPradesh,India**
- -Intermediate
+ - Intermediate
    - **Sri Saraswathi Junior College**
    - **MPC**
    - **2017-2019**
    - **Ongole,Andhrapradesh,India**
-  -SSC
+  - SSC
     - **Sri Saraswathi Junior College**
     - **Tallur,Andhrapradesh,India**
+  
+  ### Technical skills
+   - Python-**10** points
+   - java-**10** points
+   - c-**10** points
+   - DBMS-**10** points
+  
   
  
  
