@@ -1,12 +1,12 @@
 # Divakar Mamillapalli
 -----------------------------
-### presonal details
+###  presonal details
   - Email:**divakarchowdary65@gmail.com**
   - contact no:**6302628683**
   - DOB:**09-08-2001**
   - address:**prakasam District**
   
- ### Education details
+ ###  Education details
  - B.tech
    - **RVR & JC College Of Engineering**
    - **CSE**
@@ -21,7 +21,7 @@
     - **Sri Saraswathi Junior College**
     - **Tallur,Andhrapradesh,India**
   
-  ### Technical skills
+  ###  Technical skills
    - Python-**10** points
    - java-**10** points
    - c-**10** points
